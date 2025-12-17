@@ -95,11 +95,3 @@ return FileResponse(
 )
 
 ================================
-
-FILE: requirements.txt
-
-================================
-
-Put this in a SEPARATE file named requirements.txt
-
-fastapi uvicorn moviepy yt-dlp imageio-ffmpeg
