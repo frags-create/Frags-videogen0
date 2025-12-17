@@ -1,0 +1,5 @@
+fastapi
+uvicorn
+moviepy
+yt-dlp
+imageio-ffmpeg
